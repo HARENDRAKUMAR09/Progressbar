@@ -1,0 +1,33 @@
+body{
+    background: black;
+    color: white
+}
+.main{
+    width: 40%;
+    margin-top: 30px;
+    
+    
+    
+}
+
+.progressbar{
+    text-align: center;
+    width: 50%;
+    background: blue;
+    padding: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    
+
+}
+.title{
+    float: left;
+    color:white;
+    widows: 100px;
+    
+
+}
+.value{
+    float: right;
+    
+}
